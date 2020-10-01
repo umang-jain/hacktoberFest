@@ -1,4 +1,4 @@
-##creating window(GUI:frontend) using tkinter module
+##creating window(GUI:frontend) using tkinter module using python
 import imutils
 from tkinter import *
 
