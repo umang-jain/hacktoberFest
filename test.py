@@ -18,3 +18,5 @@ x = 100000012131
 print("alohmora")
 print("chech")
 to_find(x)
+
+print("done")
