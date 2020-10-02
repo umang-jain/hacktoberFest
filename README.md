@@ -7,7 +7,7 @@
 4. Make your changes.
 5. Push the code.
 6. Now Make PR request from your fork repo.
-This Project is to qualify for Hacktoberfest 2018.
+This Project is to qualify for Hacktoberfest 2020
 Simply change something and make a pull request.
 
 ## Hacktober-fest 
