@@ -12,4 +12,4 @@ Simply change something and make a pull request.
 
 ## Hacktober-fest 
 
-![Hacktober Logo ](https://raw.githubusercontent.com/asangam/HacktoberFest2018/master/hacktober_log.png)
+![Hacktober Logo ](https://images.prismic.io/www-static/e6c04b47-bd9d-474a-9d25-ab143f47349e_Hacktoberfest2020.png)
