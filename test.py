@@ -2,6 +2,7 @@ import sympy
 
 
 #sourabh karnani roxxx!!!
+print("TDS meter tere pe hai??")
 def to_find(x):
         find =2
         while(find):
