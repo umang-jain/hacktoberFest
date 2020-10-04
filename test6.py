@@ -5,7 +5,7 @@ import sys
 roman = str(arg[1])
 l = len(roman)
 
-val = {' ':0, 'I':1, 'V':5, 'X':10, 'L':50, 'C':100}
+val = {' ':0, 'I':1, 'V':5, 'X':10, 'L':50, 'C':100, 'D':500}
 sum = int(0)
 
 flag = ''
